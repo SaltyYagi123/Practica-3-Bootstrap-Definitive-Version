@@ -43,7 +43,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #0584fc;
 }
 
 #preloader:before {
@@ -51,7 +51,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
+  border: 6px solid #0584fc;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -309,7 +309,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #37517e;
+  color: #0584fc;
 }
 .navbar-mobile a:hover,
 .navbar-mobile .active,
@@ -319,7 +319,7 @@ h6 {
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
   margin: 15px;
-  color: #37517e;
+  color: #0584fc;
 }
 .navbar-mobile .dropdown ul {
   position: static;
@@ -356,7 +356,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #0584fc;
 }
 #hero .container {
   padding-top: 72px;
@@ -491,7 +491,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #0584fc;
 }
 .section-title h2::before {
   content: "";
@@ -603,7 +603,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color: #0584fc;
 }
 .why-us .content h4 {
   font-size: 20px;
@@ -706,7 +706,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #37517e;
+  color: #0584fc;
   font-family: "Poppins", sans-serif;
 }
 .skills .content ul {
@@ -737,7 +737,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #37517e;
+  color: #0584fc;
 }
 .skills .progress .skill .val {
   float: right;
@@ -777,7 +777,7 @@ section {
   font-size: 24px;
 }
 .services .icon-box h4 a {
-  color: #37517e;
+  color: #0584fc;
   transition: ease-in-out 0.3s;
 }
 .services .icon-box p {
@@ -1008,7 +1008,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #0584fc;
 }
 .team .member span {
   display: block;
@@ -1048,7 +1048,7 @@ section {
   background: #eff2f8;
 }
 .team .member .social a i {
-  color: #37517e;
+  color: #0584fc;
   font-size: 16px;
   margin: 0 2px;
 }
@@ -1080,11 +1080,11 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 20px;
-  color: #37517e;
+  color: #0584fc;
 }
 .pricing h4 {
   font-size: 48px;
-  color: #37517e;
+  color: #0584fc;
   font-weight: 400;
   font-family: "Jost", sans-serif;
   margin-bottom: 25px;
@@ -1221,7 +1221,7 @@ section {
   display: none;
 }
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #0584fc;
   transition: 0.3s;
 }
 .faq .faq-list a.collapsed:hover {
@@ -1268,7 +1268,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #0584fc;
 }
 .contact .info p {
   padding: 0 0 10px 60px;
@@ -1429,7 +1429,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #37517e;
+  color: #0584fc;
 }
 .breadcrumbs ol {
   display: flex;
@@ -1454,7 +1454,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #0584fc;
 }
 #footer .footer-newsletter {
   padding: 50px 0;
@@ -1469,7 +1469,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #0584fc;
 }
 #footer .footer-newsletter form {
   margin-top: 30px;
@@ -1517,7 +1517,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #0584fc;
 }
 #footer .footer-top .footer-contact p {
   font-size: 14px;
@@ -1529,7 +1529,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #0584fc;
   position: relative;
   padding-bottom: 12px;
 }
